@@ -11,9 +11,7 @@ for ($i = 2; $i <= $n; $i++) {
       break;
     }
   }
-  if ($isPrime) {
-    array_push($primeNumbers, $i);
-  }
+  if ($isPrime) $primeNumbers[] = $i;
 }
 
 echo implode(", ",$primeNumbers);
