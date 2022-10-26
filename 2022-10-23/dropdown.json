@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Tin tuc",
+    "slug": "news",
+    "children": [
+      {
+        "title": "Tin trong nuoc",
+        "slug": "domestic",
+        "children": []
+      },
+      {
+        "title": "Tin Quoc te",
+        "slug": "foreign",
+        "children": [
+          {
+            "title": "Tin Trung Quoc",
+            "slug": "cn",
+            "children": []
+          },
+          {
+            "title": "Tin My",
+            "slug": "us",
+            "children": [
+              {
+                "title": "Tin My Tho",
+                "slug": "mt",
+                "children": []
+              },
+              {
+                "title": "Tin My Dinh",
+                "slug": "md",
+                "children": [
+                  {
+                    "title": "Het me title rui",
+                    "slug": "none",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Giai tri",
+    "slug": "entertainment",
+    "children": []
+  },
+  {
+    "title": "Su kien",
+    "slug": "event",
+    "children": []
+  }
+]
